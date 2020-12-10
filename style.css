@@ -31,6 +31,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+#header img{
+    width: 150px;
+}
 .header-1 .space-1{
     display: flex;
     justify-content: space-around;
